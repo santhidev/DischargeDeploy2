@@ -8925,7 +8925,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-aGBMlj7SRuD+LGPd9yr1hMMmmlfYNi5iVI2ESQRfQSw=",
+      "hash": "sha256-2bnE20sCNp5za\/xIgzi6\/PMhPbEv8xLfjKYrvJExBuM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -8949,7 +8949,7 @@
       "url": "_framework\/Blazored.Toast.dll"
     },
     {
-      "hash": "sha256-0bLp9mdxVexqMNYCI83IurVtTc9MSScnGgzfMPoesyg=",
+      "hash": "sha256-M4n\/2+p+zHBsLVeI+OU1mEAxK6Vs1FkSCSyySgqBHxQ=",
       "url": "_framework\/DHV.DDISCharge.BlazorUI.dll"
     },
     {
@@ -9285,5 +9285,5 @@
       "url": "_content\/SweetAlert.Blazor\/js\/sweetAlertModule.js"
     }
   ],
-  "version": "ypZ9AnCD"
+  "version": "PkcG2wYG"
 };
