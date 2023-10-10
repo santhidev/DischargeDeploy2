@@ -209,6 +209,10 @@
       "url": "icons-discharge\/Check.svg"
     },
     {
+      "hash": "sha256-p610GyRZFSNY3mVv5f3tY0h7GwXiSfXmT+fYGdr9Oks=",
+      "url": "icons-discharge\/Clock.svg"
+    },
+    {
       "hash": "sha256-6XCro8S3qPs0m62QN+SxpBDpUdzw4dM+qw11T6UgTVU=",
       "url": "icons-discharge\/fonts\/icomoon.eot"
     },
@@ -231,6 +235,10 @@
     {
       "hash": "sha256-glAmFx9Y7CPolFJOCKokGK6JrnwhqvXz4ALs63HQZHI=",
       "url": "icons-discharge\/Food-blue.svg"
+    },
+    {
+      "hash": "sha256-sAPs04PxVz1kP2v5Pmg\/6MCp04QAWwBb7i5LN\/UcvJQ=",
+      "url": "icons-discharge\/Home.svg"
     },
     {
       "hash": "sha256-Qtir7RtaYJEcQiMo0ywgjTCRk2PpTFg5nC7rpSWHYu0=",
@@ -8925,7 +8933,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-fi+fbdLFeZBv1K\/2lsbKlSdJa4LZpOuCGTcYtA0woyE=",
+      "hash": "sha256-kG6AK1dksBlZ+zKBZWw6NR\/EjGEb7Ryw5mjYVOhYu2w=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -8949,7 +8957,7 @@
       "url": "_framework\/Blazored.Toast.dll"
     },
     {
-      "hash": "sha256-TdANgS3PpOejM9w8DXTPfMreGQMU2pwCR09IjnqI5b8=",
+      "hash": "sha256-UVGS1aBr4vMkBaN\/FBLyq88Y35DeMHwboRj5CLwvMaM=",
       "url": "_framework\/DHV.DDISCharge.BlazorUI.dll"
     },
     {
@@ -9285,5 +9293,5 @@
       "url": "_content\/SweetAlert.Blazor\/js\/sweetAlertModule.js"
     }
   ],
-  "version": "DBjTa24Q"
+  "version": "\/5hjnGA0"
 };
